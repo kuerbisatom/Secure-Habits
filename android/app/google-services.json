@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "241419400274",
+    "project_id": "habits-c9013",
+    "storage_bucket": "habits-c9013.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241419400274:android:751246c011f842579cdb8b",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241419400274-kav8brjo6kp9d574vnk0ldl8s3bklgma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuA6Pmqfh38UDJdAif8_tbcNDZpgLBgMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241419400274-kav8brjo6kp9d574vnk0ldl8s3bklgma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
